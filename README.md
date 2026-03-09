@@ -9,6 +9,19 @@ This project is automatically generated.
 pip install -r requirements.txt
 ```
 
+## How to Run
+
+1. Clone the repository
+```sh
+git clone <repo-url>
+cd src
+```
+
+2. Run the program
+```sh
+python main.py
+```
+
 ## Features
 
 - Extracts candidate information from resumes
