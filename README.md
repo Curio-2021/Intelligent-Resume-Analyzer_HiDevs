@@ -61,3 +61,6 @@ README.md
 
 - Python 3.8+
 - No external libraries required (uses Python standard library)
+
+## Project Demo Video
+You can watch the full project demonstration here: [Watch the Demo Video](https://youtu.be/Tj0EJxAwza0)
