@@ -1,0 +1,13 @@
+{
+    "Candidate": "Crispy Melon",
+    "Email": "crispymelon@gmail.com",
+    "Skills": [
+        "python",
+        "sql",
+        "machine learning",
+        "data analysis"
+    ],
+    "Experience": 4,
+    "Match Score": 100.0,
+    "Recommendation": "Strong Hire"
+}
