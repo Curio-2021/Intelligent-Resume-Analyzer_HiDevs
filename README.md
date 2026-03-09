@@ -23,15 +23,25 @@ pip install -r requirements.txt
 
 ## Project Structure
 src/
+<br>
 │
+<br>
 ├── main.py # Runs the application
+<br>
 ├── parser.py # Resume parsing logic
+<br>
 ├── matcher.py # Candidate-job matching algorithm
+<br>
 ├── report.py # Report generation
+<br>
 ├── storage.py # JSON file operations
+<br>
 ├── resume.txt # Example resume
+<br>
 ├── requirements.txt
+<br>
 gitignore
+<br>
 README.md
 
 ## Requirements
