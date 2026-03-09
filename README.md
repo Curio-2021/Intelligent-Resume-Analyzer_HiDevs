@@ -13,7 +13,7 @@ pip install -r requirements.txt
 
 1. Clone the repository
 ```sh
-git clone <repo-url>
+git clone https://github.com/Curio-2021/Intelligent-Resume-Analyzer_HiDevs.git
 cd src
 ```
 
